@@ -1,0 +1,20 @@
+{
+  "name": "2026 techVA AI automation Simple CRM",
+  "short_name": "techVA CRM",
+  "description": "Manage contacts and sales with AI automation",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1e40af",
+  "theme_color": "#1e40af",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "categories": ["business", "productivity"],
+  "icons": [
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAABjElEQVR4nO2WzUrDQBSFv6SKQl/BjQtx4UJw4U4QfAFBEBcKLvQFfAJfwI0rd4ILwYWgC0EQBMGFL+BOxYWKP1VbPZJAGpJJZtI0Lhw4kGRy7rlz586dBP5jVIB14AjoBh5wCqwBpSKJrwMPMe4HWMyb+BZwH0P8HtjKk3gVuEsg3gO2gXKWxCvAZQrxS2AtC+JV4CqD+CWwmiXxKnCdQfwKWMuCeA24ySB+DaznQbwO3GYQvwHW8yB+B9znQPwW2MiaeAPo5EC8C2xmTbwJ9DIm3gO2siTeBvoZE+8D21kSPwAGGRN/BHayIj4EhhkSHwI7WRAfAaOMiI+B3SyIj4FxBsTHwF7exCfAfM7E+8B+nsRPgWZOxPvAQV7Ez4BmDsQHwGFexM+BVsbEB8BRHsQvgHbKxPvAcR7EL4FOisT7wEkexC+BTkrE+8BpHsQvgW4KxHvAWR7Er4DuHIl3gbM8iF8D3TkQ7wDneRB/ANpzIN4GzvMg/gi050C8BVzkQfwJ6MyBeBO4zIP4M9CZJXEA/sWX0gv1tFQJTdZeugAAAABJRU5ErkJggg==",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
